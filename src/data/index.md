@@ -1,10 +1,10 @@
 ---
-title: Create AMP Page Demo
+title: Maliek News Demo
 lang: en
 description: Demo deployment of an AMP page developed using create-amp-app and @formanta/sass
 ---
 
-# Markdown Features & Dummy Text
+# Maliek App
 
 ${toc}
 
@@ -23,18 +23,9 @@ Here is a footnote reference,[^1] and another.[^longnote]
 
 ### Markdown Abbr
 
-*[HTML]: Hyper Text Markup Language
-*[W3C]:  World Wide Web Consortium
-The HTML specification is maintained by the W3C.
 
 ### Blog
 
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
 
 ### Markdown Strike through & Inserted
 
@@ -42,7 +33,7 @@ Second Term
 
 ### Mark
 
-==marked==
+
 
 ## Passa titulum
 
@@ -102,6 +93,4 @@ contudit, deam, quod, duros militiam incessit et?
 Unum super de sensisse et moveres *acerbo tum* populos nec oleis ex bracchia
 flexit et? Parente umor **versat** summoque quidem utramque **piceae**. Cur
 virgo aequora autumnos postquam!
-
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to%20netlify-success?style=for-the-badge&logo=netlify&labelColor=0e1e25&color=00C7B7)](https://app.netlify.com/start/deploy?repository=https://github.com/bemit/create-amp-page-starter) [![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/bemit/create-amp-page-starter)
 
