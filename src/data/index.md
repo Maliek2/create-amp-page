@@ -3,7 +3,6 @@ title: Create AMP Page Demo
 lang: en
 description: Demo deployment of an AMP page developed using create-amp-app and @formanta/sass
 ---
-[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to%20netlify-success?style=for-the-badge&logo=netlify&labelColor=0e1e25&color=00C7B7)](https://app.netlify.com/start/deploy?repository=https://github.com/bemit/create-amp-page-starter) [![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/bemit/create-amp-page-starter)
 
 # Markdown Features & Dummy Text
 
@@ -28,7 +27,7 @@ Here is a footnote reference,[^1] and another.[^longnote]
 *[W3C]:  World Wide Web Consortium
 The HTML specification is maintained by the W3C.
 
-### Markdown Definition List
+### Blog
 
 First Term
 : This is the definition of the first term.
@@ -60,7 +59,7 @@ gigabyteText = png_firewall_emoticon;
 wordVersion = ppc_hard_key;
 ```
 
-## Lugent de magnorum tristia collo concipit audiat
+## Lucify 
 
 Quae ait in promissa numina, *diva* artes [ea](http://auxilium.org/) regem
 classem. Molimine **et vir** locuta, et fixis Atrides est peto. Orbem Neptunia
@@ -103,3 +102,6 @@ contudit, deam, quod, duros militiam incessit et?
 Unum super de sensisse et moveres *acerbo tum* populos nec oleis ex bracchia
 flexit et? Parente umor **versat** summoque quidem utramque **piceae**. Cur
 virgo aequora autumnos postquam!
+
+[![Deploy to Netlify](https://img.shields.io/badge/Deploy%20to%20netlify-success?style=for-the-badge&logo=netlify&labelColor=0e1e25&color=00C7B7)](https://app.netlify.com/start/deploy?repository=https://github.com/bemit/create-amp-page-starter) [![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/bemit/create-amp-page-starter)
+
